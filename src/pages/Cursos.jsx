@@ -11,27 +11,27 @@ export default function Cursos() {
     {
       titulo: "Programación Web",
       descripcion: "HTML, CSS, JavaScript y React.",
-      imagen: "https://source.unsplash.com/400x250/?web,code",
+      imagen: "https://blog.endeos.com/wp-content/uploads/2022/06/lenguajes-de-programacion-web.jpg",
     },
     {
       titulo: "Backend con Node.js",
       descripcion: "APIs REST, Express y MongoDB.",
-      imagen: "https://source.unsplash.com/400x250/?nodejs,server",
+      imagen: "https://antonio-richaud.com/blog/imagenes/archivo/14-node-js/nodejs.png",
     },
     {
       titulo: "Python para Principiantes",
       descripcion: "Aprende lógica con Python.",
-      imagen: "https://source.unsplash.com/400x250/?python,code",
+      imagen: "https://www.channelpartner.es/wp-content/uploads/2022/05/27888_28.jpg",
     },
     {
       titulo: "Bases de Datos",
       descripcion: "SQL, NoSQL, MySQL, MongoDB.",
-      imagen: "https://source.unsplash.com/400x250/?database,sql",
+      imagen: "https://isil.pe/blog/wp-content/uploads/2023/05/base-datos-info-1.png",
     },
     {
       titulo: "Algoritmos y Estructuras",
       descripcion: "Pensamiento lógico y estructuras básicas.",
-      imagen: "https://source.unsplash.com/400x250/?algorithm,code",
+      imagen: "https://media.licdn.com/dms/image/v2/D5612AQHjnAvwThsqLA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1706581533940?e=2147483647&v=beta&t=Q_iQQegSEC7cJT2JWcW-tV2buU_8cCOTHKWHoE4n6qA",
     },
   ];
 
